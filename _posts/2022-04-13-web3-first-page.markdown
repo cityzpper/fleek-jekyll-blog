@@ -18,8 +18,8 @@ This is a highlight box:
 Empty
 {% endhighlight %}
 
-Check out my [About me website][Link1] and [LinkedIn profile][Link2]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out my [About me website][Link1] and [LinkedIn profile][Link2]. If you have questions, you can email me at [chiazhi.t@gmail.com][Email].
 
 [Link1]: https://about.me/cityzpper
 [Link2]:   https://www.linkedin.com/in/chiazhi
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Email]: mailto:chiazhi.t@gmail.com
